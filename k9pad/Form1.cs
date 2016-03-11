@@ -531,10 +531,21 @@ namespace k9pad
         //Exit program
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to close?", "Nothing will be saved...", 
-                MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
+            //Assume none of the 9 texts changed
+            bool bSomethingChanged = false;
+
+            for (int i = 0; i < arrTextBox.GetLength(0); i++)
             {
-                e.Cancel = true;
+                if (bChanged[i]) bSomethingChanged = true;
+            }
+            //If some text changed ask for confirmation, otherwise just exit
+            if (bSomethingChanged)
+            {
+                if (MessageBox.Show("Are you sure you want to close?", "Nothing will be saved...",
+                MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.No)
+                {
+                    e.Cancel = true;
+                }
             }
         }
         
