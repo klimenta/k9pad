@@ -22,3 +22,16 @@ C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\k9pad\k9pad\obj\D
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\k9pad\k9pad\obj\Debug\k9pad.Form4.resources
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\k9pad\k9pad\obj\Debug\k9pad.Properties.Resources.resources
 C:\Users\Kliment.ANDREEV\Documents\Visual Studio 2015\Projects\k9pad\k9pad\obj\Debug\k9pad.csproj.GenerateResource.Cache
+P:\dotnet\k9pad\k9pad\bin\Debug\k9pad.exe.config
+P:\dotnet\k9pad\k9pad\bin\Debug\k9pad.exe
+P:\dotnet\k9pad\k9pad\bin\Debug\k9pad.pdb
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.AboutBox1.resources
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.Form1.resources
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.Form2.resources
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.Form3.resources
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.Form4.resources
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.Properties.Resources.resources
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.csproj.GenerateResource.cache
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.csproj.CoreCompileInputs.cache
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.exe
+P:\dotnet\k9pad\k9pad\obj\Debug\k9pad.pdb
